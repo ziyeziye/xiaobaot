@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
       columnid: "shengcaiyoushu",
       image_url:
         "https://static.xiaobot.net/paper/2022-11-22/11873/cd3e807a29b791027131bd0ed1783bce.png",
-      num: { 读者: 27944, 内容: 71 },
+      num: { 读者: 28002, 内容: 71 },
       title: "生财有术项目精选",
       owner: "@亦仁",
       description:
@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
       columnid: "mediabuy",
       image_url:
         "https://static.xiaobot.net/paper/2024-04-28/115347/6ba0b154f27e595bb25b89d6a101a43e.png",
-      num: { 读者: 12976, 内容: 64 },
+      num: { 读者: 14151, 内容: 69 },
       title: "AI海外赚钱",
       owner: "@静水流深（惰惰）",
       description:
@@ -33,6 +33,25 @@ document.addEventListener("DOMContentLoaded", () => {
       description:
         "作者赵立心：前大厂产品经理，裸辞自由职业2年。辞职半年打平原收入，毕业4年实现月入六位数。擅长帮助职场人实现职场转型、IP打造，完成自由职业起步0-100w。<br><br>小册共10个专栏：自由职业基本问题、商业模式篇、辞职转型篇、心力篇、定位及常见方式篇、流量自媒体篇、产品篇、转化篇、时间管理篇、常见问答。<br><br>原价2000元，现价14元买断，每千人涨价。买完看置顶帖，进专属知识星球，分享自由职业0-100w日常。<br><br>加微信「aijun20230504」，领自由职业资料一份。",
       type: "搞钱、IP、热门",
+    },
+    {
+      columnid: "link100",
+      image_url:
+        "https://static.xiaobot.net/paper/2024-03-25/390406/4d8217093a814494e80e5b858468986c.jpeg",
+      num: { 读者: 2282, 内容: 53 },
+      title: "AI视频制作（50个案例拆解）",
+      owner: "@Link 羊羊",
+      description:
+        `本专栏由多位深耕 AI视频领域的创作者花费 100 多天时间共创而来。</br></br>
+
+        一作：Link羊羊，C9本、硕士在读。</br>
+        二作：水月，工作时长两年半，前端裸辞 All in AI。</br></br>
+        
+        小册共 3 个专栏：</br>
+        50 个 AI+视频案例的拆解；</br>
+        工具、提示词的教学；</br>
+        主流平台的研究；</br>`,
+      type: "搞钱、AI、热门",
     },
     {
       columnid: "pmdogs",
@@ -707,7 +726,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // 定义网站链接和推荐码
   const siteurl = "https://xiaobot.net/p/";
-  const refercode = "?refer=533724d2-273f-443f-bed1-7fa9cae0fdd9";
+  const refercode = "?refer=1746c8da-7550-4081-8bb6-7132d5283415";
 
   // 获取页面元素
   const content = document.getElementById("content");
